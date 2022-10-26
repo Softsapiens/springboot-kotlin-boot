@@ -1,0 +1,5 @@
+= All-in-One Spring Boot Kotlin Demo
+
+The code is based on the following link:https://youtu.be/2MYSLP2vgps[talk].
+
+This example shows how to use Spring Boot reactive using coroutines in Kotlin, including a simple HTTP API and a little Spring Data persistence example. Also integration test using Test Containers.
