@@ -1,4 +1,4 @@
-package softsapiens.kotlin.boot.infra.sb
+package softsapiens.kotlin.boot.allinone
 
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.flowOf
